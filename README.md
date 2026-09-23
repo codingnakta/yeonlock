@@ -11,6 +11,12 @@ npm run test       # 엔진 단위 테스트
 npm run typecheck
 ```
 
+## 문서
+
+- [docs/SPEC.md](docs/SPEC.md) 기획서
+- [docs/DESIGN.md](docs/DESIGN.md) 설계안 (폴더 구조, 타입, DB, 엔진 인터페이스)
+- [docs/DECISIONS.md](docs/DECISIONS.md) 결정 기록과 PHASE 진행 상태
+
 ## 구조
 
 - `src/app` 페이지 (App Router)
